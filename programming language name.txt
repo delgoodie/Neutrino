@@ -1,0 +1,16 @@
+blink
+blinx
+cheetah
+shade
+
+blynx
+leap
+dive
+orca
+hare
+pegasus
+arrow
+aero
+wave
+neutrino
+inertia
